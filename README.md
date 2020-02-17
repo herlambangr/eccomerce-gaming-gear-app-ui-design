@@ -1,1 +1,1 @@
-# eccommerce-gaming-gear-app-ui-design
+# ecommerce-gaming-gear-app-ui-design
