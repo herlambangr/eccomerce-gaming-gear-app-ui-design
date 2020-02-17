@@ -1,1 +1,1 @@
-# eccomerce-gaming-gear-app-ui-design
+# eccommerce-gaming-gear-app-ui-design
